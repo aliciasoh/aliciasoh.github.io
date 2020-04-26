@@ -1,16 +1,27 @@
 {
   "files": {
     "main.css": "/website/static/css/main.5450793a.chunk.css",
-    "main.js": "/website/static/js/main.ef36a845.chunk.js",
-    "main.js.map": "/website/static/js/main.ef36a845.chunk.js.map",
+    "main.js": "/website/static/js/main.1aba0df3.chunk.js",
+    "main.js.map": "/website/static/js/main.1aba0df3.chunk.js.map",
     "runtime~main.js": "/website/static/js/runtime~main.5b19542e.js",
     "runtime~main.js.map": "/website/static/js/runtime~main.5b19542e.js.map",
-    "static/js/2.0e3ada2c.chunk.js": "/website/static/js/2.0e3ada2c.chunk.js",
-    "static/js/2.0e3ada2c.chunk.js.map": "/website/static/js/2.0e3ada2c.chunk.js.map",
+    "static/js/2.97887b8f.chunk.js": "/website/static/js/2.97887b8f.chunk.js",
+    "static/js/2.97887b8f.chunk.js.map": "/website/static/js/2.97887b8f.chunk.js.map",
     "index.html": "/website/index.html",
-    "precache-manifest.a33d0e21e25334f28e100deb5329791e.js": "/website/precache-manifest.a33d0e21e25334f28e100deb5329791e.js",
+    "precache-manifest.d0ce019f6ba2baabe46ee46c246cb4e4.js": "/website/precache-manifest.d0ce019f6ba2baabe46ee46c246cb4e4.js",
     "service-worker.js": "/website/service-worker.js",
     "static/css/main.5450793a.chunk.css.map": "/website/static/css/main.5450793a.chunk.css.map",
-    "static/media/landing-bg.jpg": "/website/static/media/landing-bg.df8fd3ef.jpg"
+    "static/media/fb.jpg": "/website/static/media/fb.b453fd72.jpg",
+    "static/media/flask.png": "/website/static/media/flask.aa9e32be.png",
+    "static/media/jtc.png": "/website/static/media/jtc.e282c964.png",
+    "static/media/landing-bg.jpg": "/website/static/media/landing-bg.df8fd3ef.jpg",
+    "static/media/mino.jpg": "/website/static/media/mino.de5fd32c.jpg",
+    "static/media/odafy.png": "/website/static/media/odafy.883d4f3c.png",
+    "static/media/qi.png": "/website/static/media/qi.8e2725c4.png",
+    "static/media/sambla.png": "/website/static/media/sambla.67170c68.png",
+    "static/media/sc.png": "/website/static/media/sc.967df8a3.png",
+    "static/media/tech.jpg": "/website/static/media/tech.9be05746.jpg",
+    "static/media/travel.jpg": "/website/static/media/travel.5f2fb1ce.jpg",
+    "static/media/wit.jpg": "/website/static/media/wit.d5e89569.jpg"
   }
 }
