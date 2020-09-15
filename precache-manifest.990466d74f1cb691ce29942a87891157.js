@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1354619e885b89aaf4f8a23c4ab178c8",
+    "revision": "53dd8583fb80478a6e700cd2d2542878",
     "url": "/website/index.html"
   },
   {
-    "revision": "184db3c376260e31a316",
-    "url": "/website/static/css/main.5450793a.chunk.css"
+    "revision": "117243d63cbc174d2ba2",
+    "url": "/website/static/css/main.2ca17618.chunk.css"
   },
   {
-    "revision": "5db72f2fd735ace10e99",
-    "url": "/website/static/js/2.97887b8f.chunk.js"
+    "revision": "ec104317a93f176402ec",
+    "url": "/website/static/js/2.c7e48ca9.chunk.js"
   },
   {
-    "revision": "184db3c376260e31a316",
-    "url": "/website/static/js/main.e7ee3b6f.chunk.js"
+    "revision": "117243d63cbc174d2ba2",
+    "url": "/website/static/js/main.845754e0.chunk.js"
   },
   {
-    "revision": "cbafe1f1289291854a43",
-    "url": "/website/static/js/runtime~main.5b19542e.js"
+    "revision": "a9b85154fd9b600ba8cb",
+    "url": "/website/static/js/runtime~main.556f1c1e.js"
+  },
+  {
+    "revision": "f765f3fbde6ea6c049ec9f7789c904b4",
+    "url": "/website/static/media/advisory.f765f3fb.png"
   },
   {
     "revision": "b453fd729aacf708a5d21e20a40a78fd",
@@ -54,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "967df8a3cc30af47db1e899dc3788132",
     "url": "/website/static/media/sc.967df8a3.png"
+  },
+  {
+    "revision": "4aef49d68fde9e0d19240fa300b5812f",
+    "url": "/website/static/media/swedbank.4aef49d6.jpg"
   },
   {
     "revision": "9be05746fb38ccb351b80b5cab2f4d9e",
